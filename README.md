@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tom Wielemaker
 
-I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here is are a few of my key experiences:
+I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
 🚗 Current Machine Learning Perception Intern at [Potential Motors](https://www.potentialmotors.com) where I am working on AI-powered terrain perception software.
 
