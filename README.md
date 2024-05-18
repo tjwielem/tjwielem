@@ -6,7 +6,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo with a pass
 
 🏎️ Current Student Researcher at University of Waterloo, where I'm researching the use of neural rendering algorithms to enhance vehicles/robots' dynamic scene understanding
 
-🧬 Returned as a Machine Learning Bioinformatics Research Intern at Canada's [National Microbiology Laboratory](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), where I experimented with various machine learning classifiers (especially hierarchical classifiers) to determine the geographic source location of Salmonella isolates.
+🧬 Previous Machine Learning Bioinformatics Research Intern at Canada's [National Microbiology Laboratory](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), where I experimented with various machine learning classifiers (especially hierarchical classifiers) to determine the geographic source location of Salmonella isolates.
 
 📃 Previous NLP Deep Learning Research Intern at Canada's [National Microbiology Laboratory](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), where I built a Large Language Model system for researchers to query scientific articles about Enteric Diseases.
 
