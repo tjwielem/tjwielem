@@ -10,7 +10,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo with a pass
 
 📃 Previous NLP Deep Learning Research Intern at Canada's [National Microbiology Laboratory](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), where I built a Large Language Model system for researchers to query scientific articles about Enteric Diseases.
 
-🤖 Previous Robotics Software Intern at the University of New Brunswick's [Robotics and Mechanisms Labortory](https://ram.ext.unb.ca), where I worked on embedded software to transfer data under UART protocal, control motors with motor drivers, and efficienty read various sensors using direct port manipulation and ISRs
+🤖 Previous Robotics Software Research Assistant the University of New Brunswick's [Robotics and Mechanisms Labortory](https://ram.ext.unb.ca), where I worked on embedded software to transfer data under UART protocal, control motors with motor drivers, and efficienty read various sensors using direct port manipulation and ISRs
 
 #### Feel free to contact me on Linkedin:
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
