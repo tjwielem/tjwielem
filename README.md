@@ -2,7 +2,9 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
-🚗 Current Machine Learning Perception Intern at [Potential Motors](https://www.potentialmotors.com) where we are working on AI-powered terrain perception software.
+💻 Previous Software Engineering Intern at [Untether AI](https://www.untether.ai/) where I developed methods to decompose and map Multi-Headed and Group-Query Attention to an at-compute, 2D spatial hardware architecture.
+
+🚗 Previous Machine Learning Perception Intern at [Potential Motors](https://www.potentialmotors.com) where I worked on AI-powered terrain perception software.
 
 🏎️ Current Student Researcher at University of Waterloo, where I'm researching the use of neural rendering algorithms to enhance vehicles/robots' dynamic scene understanding
 
