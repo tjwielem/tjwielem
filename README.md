@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
-💻 Previous Software Engineering Intern at [Untether AI](https://www.untether.ai/) where I developed methods to decompose and map Multi-Headed and Group-Query Attention to an at-compute, 2D spatial hardware architecture.
+💻 Previous Software Engineering Intern at [Untether AI](https://www.untether.ai/) where I decomposed and mapped Multi-Headed and Group-Query Attention to an at-compute, 2D spatial hardware architecture. Along with writing dynamic compute kernels for many of the operations in BERT and Llama 3, including non-linear activation functions along with frame norm functions approximated with splines and taylor series.
 
 🚗 Previous Machine Learning Perception Intern at [Potential Motors](https://www.potentialmotors.com) where I worked on AI-powered terrain perception software.
 
