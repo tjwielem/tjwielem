@@ -6,7 +6,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo with a pass
 
 🚗 Previous Machine Learning Perception Intern at [Potential Motors](https://www.potentialmotors.com) where I worked on AI-powered terrain perception software.
 
-🏎️ Current Student Researcher at University of Waterloo, where I'm researching the use of neural rendering algorithms to enhance vehicles/robots' dynamic scene understanding
+🏎️ Previous Student Researcher at University of Waterloo, where I worked on techniques to make Gaussian Splatting real time feasible to enhance Autonomous Vehicle's understanding of 3D dynamic scenes.
 
 🧬 Previous Machine Learning Bioinformatics Research Intern at Canada's [National Microbiology Laboratory](https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html), where I experimented with various machine learning classifiers (especially hierarchical classifiers) to determine the geographic source location of Salmonella isolates.
 
