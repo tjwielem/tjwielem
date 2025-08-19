@@ -15,7 +15,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo with a pass
 🤖 Previous Robotics Software Research Assistant the University of New Brunswick's [Robotics and Mechanisms Labortory](https://ram.ext.unb.ca), where I worked on embedded software to transfer data under UART protocal, control motors with motor drivers, and efficienty read various sensors using direct port manipulation and ISRs
 
 #### Feel free to contact me on Linkedin:
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-wielemaker/)
 
 #### Here are some of the main languages and tools I have experience with:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
