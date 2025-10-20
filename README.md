@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
-🚀 Current Compiler Intern at [Groq](https://groq.com/) training draft models for speculative decoding as well as working on bringing up new multimodal models.
+🚀 Current Compiler Intern at [Groq](https://groq.com/) training draft models for speculative decoding as well as bringing up new multimodal models.
 
 💻 Previous Software Engineering Intern at [Untether AI](https://www.untether.ai/) where I decomposed and mapped Multi-Headed and Group-Query Attention to an at-memory, 2D spatial hardware architecture. Along with writing dynamic compute kernels for many of the operations in BERT and Llama 3, notably including non-linear activation functions along with frame norm functions approximated with splines and taylor series.
 
