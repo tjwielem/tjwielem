@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
-🚀 Current Compiler Intern at [Groq](https://groq.com/) training draft models for speculative decoding as well as bringing up new multimodal models.
+🚀 Previous Compiler Intern at [Groq](https://groq.com/) training new speculative decoding models as well as bringing up new multimodal models.
 
 💻 Previous Software Engineering Intern at [Untether AI](https://www.untether.ai/) where I decomposed and mapped Multi-Headed and Group-Query Attention to an at-memory, 2D spatial hardware architecture. Along with writing dynamic compute kernels for many of the operations in BERT and Llama 3, notably including non-linear activation functions along with frame norm functions approximated with splines and taylor series.
 
@@ -21,14 +21,14 @@ I'm a Mechatronics Engineering student at the University of Waterloo with a pass
 
 #### Here are some of the main languages and tools I have experience with:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
