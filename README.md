@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tom Wielemaker
+### Hi, I'm Tom Wielemaker
 
 I'm a Mechatronics Engineering student at the University of Waterloo with a passion for robotics and machine learning. Here are a few of my key experiences:
 
